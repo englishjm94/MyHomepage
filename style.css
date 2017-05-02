@@ -1,0 +1,31 @@
+
+.NavigationBar{
+  position:relative;
+  top:-17px;
+  left:-8px;
+  width:100%;
+  height:30px;
+  background-color:gray;
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+  background-color: gray;
+
+}
+
+header{
+  margin:auto;
+}
+
+li{
+  width:10%;
+  display:inline-block;
+  padding: 0 30px;
+  background-color: gray;
+  font-size: 25px;
+  color: white;
+  margin:0 10px;
+}
